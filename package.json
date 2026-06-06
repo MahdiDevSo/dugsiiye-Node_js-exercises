@@ -1,0 +1,29 @@
+{
+  "name": "dugsiiye-node_js-exercises",
+  "version": "1.0.0",
+  "description": "0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahdiDevSo/dugsiiye-Node_js-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MahdiDevSo/dugsiiye-Node_js-exercises/issues"
+  },
+  "homepage": "https://github.com/MahdiDevSo/dugsiiye-Node_js-exercises#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.3",
+    "morgan": "^1.11.0"
+  }
+}
